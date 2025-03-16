@@ -9,10 +9,7 @@ url: "https://pu-wang.github.io"              # your host, for absolute URL
 baseurl: "/Yb-wp blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
-douban_username: 138483825
-weibo_username: jsksxs360
-zhihu_username: jsksxs360
-github_username: jsksxs360
+github_username: pu-wang
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
